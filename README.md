@@ -1,6 +1,13 @@
 # Calculadora
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
+Las características técnicas de la aplicación estan fundamentadas en los requisitos establecidos para la realización de la práctica, a saber:
+
+-Deben darle sentido a la aplicación.
+
+-La aplicación debe hacer uso de al menos tres elementos Angular Material.
+
+-Si es necesario pueden almacenar la información en la base de datos o fichero de su elección.
+
 
 ## Development server
 
